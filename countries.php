@@ -1,5 +1,5 @@
 <?php
-$timezone = [
+$countries = [
     'ab' => 'Abkhazian',
     'aa' => 'Afar',
     'af' => 'Afrikaans',
@@ -185,4 +185,6 @@ $timezone = [
     'za' => 'Zhuang, Chuang',
     'zu' => 'Zulu'
 ];
+
+echo $countries['tr'];
 ?>
