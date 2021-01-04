@@ -1,4 +1,12 @@
- 
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> 
+  </head>
+  <body>
+    <main class="container">
       <h1>Arrays Library</h1> 
       <br>
       <br>
@@ -16,4 +24,7 @@
           Php Timezone Array >> 
         </a> 
       </div> 
- 
+    </main>
+
+  </body>
+</html>
