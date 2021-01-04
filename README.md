@@ -5,7 +5,7 @@
   </head>
   <body>
     <main class="container">
-      <h1>Arrays Library</h1> 
+      <h1>Array Library</h1> 
       <br>
       <br>
       <h3>PHP</h3> 
