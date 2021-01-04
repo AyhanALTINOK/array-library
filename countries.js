@@ -1,4 +1,4 @@
-var timezone = {
+var countries = {
     'ab' : 'Abkhazian',
     'aa' : 'Afar',
     'af' : 'Afrikaans',
@@ -187,8 +187,8 @@ var timezone = {
 
 /* EXAMPLE
  *
- * alert(timezone['en'])
- * alert(timezone['tr'])
- * alert(timezone['ru'])
+ * alert(countries['en'])
+ * alert(countries['tr'])
+ * alert(countries['ru'])
  *
  */
